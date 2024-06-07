@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 💝 📚💖
 
-<!--
-**lucasplasto/lucasplasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Lucas Rocha** 👨‍🏫
+- Estou estudando na [Alura](https://www.alura.com.br) 
+- Estou me desenvolvendo na linguagem Java Script 
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ## Você pode entrar em contato comigo 📬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📧 lucasplasto@prof.educacao.sp.gov.br
+      @lucasplasto
+
+ ![](https://media.tenor.com/PodkbWUKl-kAAAAM/hello-mr-bean.gif) ![](https://media.tenor.com/gVqz1FcrHD8AAAAM/the-mandalorian-mandalorian.gif)
